@@ -1,0 +1,30 @@
+
+.border{
+    border:5px solid purple ;
+    border-left: 10px dashed purple;
+    border-top: 5px dotted black;
+}
+.margin{
+    border: 10px solid green;
+    border-radius: 50px;
+    margin: 20px;
+    margin-top: 30px;
+
+}
+.box{
+    width: 30%;
+    height: 400px;
+    border: 1px solid purple;
+    border-radius: 20px;
+    margin: 2px;
+    padding: 2px;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+
